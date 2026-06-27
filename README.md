@@ -10,7 +10,7 @@
 
 _An intelligent chatbot integrating LangChain, Neo4j, and Google Gemini to interact with hospital systems_
 
-English |README.md)
+English |(README.md)
 
 </div>
 
